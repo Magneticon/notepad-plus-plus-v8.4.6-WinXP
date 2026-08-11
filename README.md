@@ -1,8 +1,9 @@
 What is Notepad++ ?
 ===================
 
-[![GitHub release](https://img.shields.io/github/release/notepad-plus-plus/notepad-plus-plus.svg)](../../releases/latest)&nbsp;&nbsp;&nbsp;&nbsp;[![Build Status](https://img.shields.io/github/actions/workflow/status/notepad-plus-plus/notepad-plus-plus/CI_build.yml)](https://github.com/notepad-plus-plus/notepad-plus-plus/actions/workflows/CI_build.yml)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Join the discussions at https://community.notepad-plus-plus.org/](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://community.notepad-plus-plus.org/)
+[![GitHub release](https://img.shields.io/github/release/notepad-plus-plus/notepad-plus-plus.svg)](../../releases/latest)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Appveyor build status](https://ci.appveyor.com/api/projects/status/github/notepad-plus-plus/notepad-plus-plus?branch=master&svg=true)](https://ci.appveyor.com/project/donho/notepad-plus-plus)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Join the disscussions at https://community.notepad-plus-plus.org/](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://community.notepad-plus-plus.org/)
 
 Notepad++ is a free (free as in both "free speech" and "free beer") source code
 editor and Notepad replacement that supports several programming languages and
@@ -11,9 +12,8 @@ natural languages. Running in the MS Windows environment, its use is governed by
 
 See the [Notepad++ official site](https://notepad-plus-plus.org/) for more information.
 
-
-Notepad++ GPG Release Key
--------------------------
+Notepad++ Release Key
+---------------------
 _Since the release of version 7.6.5 Notepad++ is signed using GPG with the following key:_
 
 - **Signer:** Notepad++
@@ -22,7 +22,7 @@ _Since the release of version 7.6.5 Notepad++ is signed using GPG with the follo
 - **Key fingerprint:** 14BC E436 2749 B2B5 1F8C 7122 6C42 9F1D 8D84 F46E
 - **Key type:** RSA 4096/4096
 - **Created:** 2019-03-11
-- **Expires:** 2027-03-13
+- **Expires:** 2024-03-11
 
 https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/nppGpgPub.asc
 
