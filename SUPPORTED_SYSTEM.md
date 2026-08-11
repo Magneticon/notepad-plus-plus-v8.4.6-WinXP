@@ -12,8 +12,8 @@
 | **Windows ME**          | v6.0                     |          No               |
 | **Windows NT 4.0**      | v4.7.3                   |          No               |
 | **Windows 2000**        | v6.6.9                   |          No               |
-| **Windows XP**          | v7.9.2                   |          No               |
-| **Windows Server 2003** | v7.9.2                   |          No               |
+| **Windows XP**          | v7.9.2  / v8.4.6 x64     |          No               |
+| **Windows Server 2003** | v7.9.2  / v8.4.6 x64     |          No               |
 | **Windows Vista**       | v8.4.6  \*               |          No               |
 | **Windows Server 2008** | v8.4.6  \*               |          No               |
 | **Windows 7**           | current version          |          No               |
